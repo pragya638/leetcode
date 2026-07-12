@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Concurrency
 |  |
