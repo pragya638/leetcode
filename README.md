@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/pragya638/leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
