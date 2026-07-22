@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pragya638/leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/pragya638/leetcode/tree/master/0178-rank-scores) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
