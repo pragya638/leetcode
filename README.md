@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pragya638/leetcode/tree/master/0213-house-robber-ii) |
@@ -79,5 +80,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
