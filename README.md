@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
