@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pragya638/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pragya638/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/pragya638/leetcode/tree/master/0518-coin-change-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pragya638/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/pragya638/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
+| [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
