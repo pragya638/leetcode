@@ -77,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pragya638/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pragya638/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pragya638/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
