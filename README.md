@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 ## Database
 |  |
