@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
+| [3861-minimum-capacity-box](https://github.com/pragya638/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
