@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/pragya638/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragya638/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragya638/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragya638/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Sorting
 |  |
