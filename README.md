@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/pragya638/leetcode/tree/master/0575-distribute-candies) |
+| [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
+| [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
