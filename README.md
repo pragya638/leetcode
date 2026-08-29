@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
+| [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
+| [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/pragya638/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pragya638/leetcode/tree/master/0010-regular-expression-matching) |
 | [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Geometry
 |  |
