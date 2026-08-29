@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/pragya638/leetcode/tree/master/3861-minimum-capacity-box) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## String
 |  |
