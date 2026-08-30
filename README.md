@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pragya638/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragya638/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pragya638/leetcode/tree/master/0657-robot-return-to-origin) |
+| [2553-separate-the-digits-in-an-array](https://github.com/pragya638/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/pragya638/leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
