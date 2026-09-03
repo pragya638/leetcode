@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/pragya638/leetcode/tree/master/0575-distribute-candies) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/pragya638/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pragya638/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
