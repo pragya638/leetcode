@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/pragya638/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragya638/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pragya638/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pragya638/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/pragya638/leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragya638/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3921-score-validator](https://github.com/pragya638/leetcode/tree/master/3921-score-validator) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragya638/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Recursion
