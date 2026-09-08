@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pragya638/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/pragya638/leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragya638/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/pragya638/leetcode/tree/master/3861-minimum-capacity-box) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya638/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pragya638/leetcode/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragya638/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
 ## Database
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/pragya638/leetcode/tree/master/2103-rings-and-rods) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/pragya638/leetcode/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/pragya638/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3842-toggle-light-bulbs](https://github.com/pragya638/leetcode/tree/master/3842-toggle-light-bulbs) |
 ## String
