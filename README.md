@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/pragya638/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pragya638/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/pragya638/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pragya638/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/pragya638/leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pragya638/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/pragya638/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/pragya638/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Concurrency
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/pragya638/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pragya638/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/pragya638/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2944-minimum-number-of-coins-for-fruits](https://github.com/pragya638/leetcode/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
