@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pragya638/leetcode/tree/master/0213-house-robber-ii) |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/pragya638/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/pragya638/leetcode/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/pragya638/leetcode/tree/master/0518-coin-change-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 ## Stack
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/pragya638/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -193,4 +196,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/pragya638/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/pragya638/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
