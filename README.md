@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pragya638/leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
+| [0137-single-number-ii](https://github.com/pragya638/leetcode/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pragya638/leetcode/tree/master/0213-house-robber-ii) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pragya638/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragya638/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/pragya638/leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
