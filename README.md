@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pragya638/leetcode/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/pragya638/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/pragya638/leetcode/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pragya638/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/pragya638/leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3992-rearrange-string-to-avoid-character-pair](https://github.com/pragya638/leetcode/tree/master/3992-rearrange-string-to-avoid-character-pair) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/pragya638/leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/pragya638/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/pragya638/leetcode/tree/master/0088-merge-sorted-array) |
 | [2784-check-if-array-is-good](https://github.com/pragya638/leetcode/tree/master/2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](https://github.com/pragya638/leetcode/tree/master/3536-maximum-product-of-two-digits) |
