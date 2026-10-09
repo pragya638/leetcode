@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/pragya638/leetcode/tree/master/0518-coin-change-ii) |
 | [0565-array-nesting](https://github.com/pragya638/leetcode/tree/master/0565-array-nesting) |
 | [0575-distribute-candies](https://github.com/pragya638/leetcode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/pragya638/leetcode/tree/master/0598-range-addition-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragya638/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1046-last-stone-weight](https://github.com/pragya638/leetcode/tree/master/1046-last-stone-weight) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragya638/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pragya638/leetcode/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/pragya638/leetcode/tree/master/0279-perfect-squares) |
+| [0598-range-addition-ii](https://github.com/pragya638/leetcode/tree/master/0598-range-addition-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/pragya638/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1927-sum-game](https://github.com/pragya638/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pragya638/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
